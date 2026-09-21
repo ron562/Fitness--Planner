@@ -1,5 +1,5 @@
 # Fitness--Planner
-A smart and easy to plan your workout and diet.
+A smart and easy way to plan your workout and diet.
 A dark-themed, interactive fitness planner that helps users design their weekly eating and training schedule. By entering age, weight, height, activity level, and fitness goals, the app generates:
 
 🎯 Personalized daily calorie targets
